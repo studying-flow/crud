@@ -1,6 +1,8 @@
 import React from 'react'
 
 const Create = () => {
+
+  
   return (
     <>
       <h2>CREATE</h2>
@@ -16,7 +18,7 @@ const Create = () => {
     <input type="email" className="form-control"  aria-describedby="emailHelp"/>
     </div>
   <div>
-  <button type="submit" className="btn btn-primary mt-3">Submit</button>
+  <button type="submit" className="btn btn-primary mt-3 ">Submit</button>
   </div>
 </form>
     </>
